@@ -1,8 +1,10 @@
+import Main from "./components/main/main";
+
 function App() {
   return (
     <>
-      {/*  <Main />
-     <Facebook />
+      <Main />
+      {/*   <Facebook />
       <Instagram />
       <X />
       <Tiktok />
