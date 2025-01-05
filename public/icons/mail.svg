@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="36" height="36">
+	<title>mail</title>
+	<defs>
+		<image  width="16" height="12" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAAXNSR0IB2cksfwAAAHJQTFRF/v7+/v7+/v7+/f39/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/f39/v7+/v7+/v7+9/f3/v7+/v7+/v7+AAAA/v7+/v7+/v7+/v7+/v7+/f39/v7+/v7+/v7+/f39/v7+/v7+/Pz8/v7++fn5/v7+/v7+IvtZ4QAAACZ0Uk5TZvv/Djzp1yYeze9ICqX9dgJ09SQARvkYq1gQzz5sCMGBBK8CnYmkQxrKAAAAgklEQVR4nE2OQQrCQBRDkxlQYWbRhSAiQrF4/xMpgogILrpoQRdjTIvUZvfeD/wQJP6RGMkycbRYkHz/eCmLsLLpR07mFwOyTemQ3VcHC1RjZ7i3GMRagW1CX+nDp0VO5D1u8Chbqe8YduTVA+A5e+nGmrxMO2q/bXieLT2IxxPmab7RnjGKsq0o7gAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="2"/>
+</svg>
