@@ -1,4 +1,4 @@
-import img from "../../../public/icons/tiktok.svg";
+import img from "/icons/tiktok.svg";
 import img2 from "../../assets/MP.svg";
 
 function Tiktok() {

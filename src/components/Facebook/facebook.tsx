@@ -1,4 +1,4 @@
-import img from "../../../public/icons/instagram.svg";
+import img from "/icons/facebook.svg";
 import img2 from "../../assets/profile-ig.svg";
 
 function Facebook() {

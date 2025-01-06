@@ -1,5 +1,5 @@
-import img from "../../../public/icons/globe.svg";
-import img2 from "../../../public/icons/MP.svg";
+import img from "/icons/globe.svg";
+import img2 from "/icons/MP.svg";
 
 function Website() {
   return (

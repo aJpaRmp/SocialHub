@@ -1,4 +1,5 @@
-import img from "../../../public/icons/x.svg";
+import img from "/icons/x.svg";
+import img2 from "../../assets/profile-x.svg";
 
 function X() {
   return (
@@ -10,7 +11,7 @@ function X() {
       >
         <img className="rounded-full m-2" src={img} alt="Moje zdjęcie" />
         <div className="flex m-auto justify-center items-center">
-          <img className="m-3 invert" src="" alt="Moje zdjęcie profilowe na x" />
+          <img className="m-3 rounded-full" src={img2} alt="Moje zdjęcie profilowe na x" />
           <h3 className="text-xl">_aJpaR</h3>
         </div>
       </a>
