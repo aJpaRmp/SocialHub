@@ -6,7 +6,7 @@ function Linkedin() {
     <section className="flex justify-center items-center w-full">
       <a
         className="flex items-center justify-start bg-white/40 hover:bg-white/60  rounded-xl w-full m-4"
-        href=""
+        href="https://www.linkedin.com/in/michalpawlowski-mp/"
         target="_blank"
       >
         <img className="rounded-full m-2" src={img} alt="Moje zdjęcie" />

@@ -1,12 +1,12 @@
 import img from "/icons/tiktok.svg";
-import img2 from "../../assets/MP.svg";
+import img2 from "../../assets/profile-tt.svg";
 
 function Tiktok() {
   return (
     <section className="flex justify-center items-center w-full">
       <a
         className="flex items-center justify-start bg-white/40 hover:bg-white/60  rounded-xl w-full m-4"
-        href="https://pawlowskimichal.pl"
+        href="https://www.tiktok.com/@ajpar__?_t=ZN-8svb30D9sQg&_r=1"
         target="_blank"
       >
         <img className="rounded-full m-2" src={img} alt="Moje zdjęcie" />

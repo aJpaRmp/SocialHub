@@ -1,4 +1,4 @@
-import img from "../../assets/MP.png";
+import img from "../../assets/mp2.svg";
 
 function Main() {
   return (

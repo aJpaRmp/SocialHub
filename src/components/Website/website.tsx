@@ -1,4 +1,4 @@
-import img from "/icons/globe.svg";
+import img from "/icons/web.svg";
 import img2 from "/icons/MP.svg";
 
 function Website() {
