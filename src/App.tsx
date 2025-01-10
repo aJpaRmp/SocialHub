@@ -5,7 +5,6 @@ import Tiktok from "./components/Tiktok/Tiktok";
 import Linkedin from "./components/Linkedin/Linkedin";
 import Youtube from "./components/Youtube/youtube";
 import Mail from "./components/Mail/mail";
-import Discord from "./components/Discord/discord";
 import Threads from "./components/Threads/threads";
 import Website from "./components/Website/website";
 import X from "./components/X/x";
@@ -14,6 +13,7 @@ function App() {
   return (
     <>
       <Main />
+      <Website />
       <Linkedin />
       <Instagram />
       <Tiktok />
@@ -21,9 +21,7 @@ function App() {
       <Threads />
       <Facebook />
       <Youtube />
-      <Website />
       <Mail />
-      <Discord />
     </>
   );
 }
